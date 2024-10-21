@@ -1,0 +1,173 @@
+2024-10-21 13:31:21 INFO  Utils - [TestNG] Running:
+  C:\Users\tarun\AppData\Local\JetBrains\IntelliJIdea2024.2\temp-testng-customsuite.xml
+
+2024-10-21 13:31:23 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:31:23 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:32:42 INFO  Utils - [TestNG] Running:
+  C:\Users\tarun\IdeaProjects\GoogleCalculatorTestFramework\src\test\resources\testng.xml
+
+2024-10-21 13:32:43 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:32:43 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:32:55 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:32:55 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:33:06 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:33:06 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:33:32 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:33:32 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:33:45 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:33:45 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:33:52 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:33:52 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:34:01 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:34:01 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:34:10 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:34:10 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:34:18 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:34:18 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:34:24 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:34:24 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:34:32 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:34:32 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:34:39 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:34:39 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:35:15 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:35:15 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:35:53 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:35:53 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:36:00 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:36:00 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:36:08 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:36:08 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:42:42 DEBUG TestNG - suiteXmlPath: "C:\Users\tarun\IdeaProjects\GoogleCalculatorTestFramework\src\test\resources\testng.xml"
+2024-10-21 13:42:43 INFO  Utils - [TestNG] Running:
+  C:\Users\tarun\IdeaProjects\GoogleCalculatorTestFramework\src\test\resources\testng.xml
+
+2024-10-21 13:42:43 DEBUG WebDriverManager - Using WebDriverManager 5.9.2
+2024-10-21 13:42:45 DEBUG ResolutionCache - Resolution chrome=130 in cache (valid until 14:02:51 21/10/2024 EDT)
+2024-10-21 13:42:45 DEBUG ResolutionCache - Resolution chrome130=130.0.6723.58 in cache (valid until 11:51:02 22/10/2024 EDT)
+2024-10-21 13:42:45 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:42:45 DEBUG WebDriverManager - Driver chromedriver 130.0.6723.58 found in cache
+2024-10-21 13:42:45 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:43:23 DEBUG TestNG - suiteXmlPath: "C:\Users\tarun\IdeaProjects\GoogleCalculatorTestFramework\src\test\resources\testng.xml"
+2024-10-21 13:43:24 INFO  Utils - [TestNG] Running:
+  C:\Users\tarun\IdeaProjects\GoogleCalculatorTestFramework\src\test\resources\testng.xml
+
+2024-10-21 13:43:24 DEBUG WebDriverManager - Using WebDriverManager 5.9.2
+2024-10-21 13:43:25 DEBUG ResolutionCache - Resolution chrome=130 in cache (valid until 14:02:51 21/10/2024 EDT)
+2024-10-21 13:43:25 DEBUG ResolutionCache - Resolution chrome130=130.0.6723.58 in cache (valid until 11:51:02 22/10/2024 EDT)
+2024-10-21 13:43:25 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:43:25 DEBUG WebDriverManager - Driver chromedriver 130.0.6723.58 found in cache
+2024-10-21 13:43:25 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:43:40 DEBUG WebDriverManager - Using WebDriverManager 5.9.2
+2024-10-21 13:43:40 DEBUG ResolutionCache - Resolution chrome=130 in cache (valid until 14:02:51 21/10/2024 EDT)
+2024-10-21 13:43:40 DEBUG ResolutionCache - Resolution chrome130=130.0.6723.58 in cache (valid until 11:51:02 22/10/2024 EDT)
+2024-10-21 13:43:40 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:43:40 DEBUG WebDriverManager - Driver chromedriver 130.0.6723.58 found in cache
+2024-10-21 13:43:40 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:43:46 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-21 13:43:46 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-10-21 13:43:46 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-10-21 13:43:47 DEBUG POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-21 13:43:50 DEBUG WebDriverManager - Using WebDriverManager 5.9.2
+2024-10-21 13:43:50 DEBUG ResolutionCache - Resolution chrome=130 in cache (valid until 14:02:51 21/10/2024 EDT)
+2024-10-21 13:43:50 DEBUG ResolutionCache - Resolution chrome130=130.0.6723.58 in cache (valid until 11:51:02 22/10/2024 EDT)
+2024-10-21 13:43:50 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:43:50 DEBUG WebDriverManager - Driver chromedriver 130.0.6723.58 found in cache
+2024-10-21 13:43:50 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:43:56 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+2024-10-21 13:43:56 DEBUG PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+2024-10-21 13:43:56 DEBUG PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+2024-10-21 13:43:56 DEBUG POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+2024-10-21 13:44:40 DEBUG WebDriverManager - Using WebDriverManager 5.9.2
+2024-10-21 13:44:40 DEBUG ResolutionCache - Resolution chrome=130 in cache (valid until 14:02:51 21/10/2024 EDT)
+2024-10-21 13:44:40 DEBUG ResolutionCache - Resolution chrome130=130.0.6723.58 in cache (valid until 11:51:02 22/10/2024 EDT)
+2024-10-21 13:44:40 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:44:40 DEBUG WebDriverManager - Driver chromedriver 130.0.6723.58 found in cache
+2024-10-21 13:44:40 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:44:50 DEBUG WebDriverManager - Using WebDriverManager 5.9.2
+2024-10-21 13:44:50 DEBUG ResolutionCache - Resolution chrome=130 in cache (valid until 14:02:51 21/10/2024 EDT)
+2024-10-21 13:44:50 DEBUG ResolutionCache - Resolution chrome130=130.0.6723.58 in cache (valid until 11:51:02 22/10/2024 EDT)
+2024-10-21 13:44:50 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:44:50 DEBUG WebDriverManager - Driver chromedriver 130.0.6723.58 found in cache
+2024-10-21 13:44:50 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:45:00 DEBUG WebDriverManager - Using WebDriverManager 5.9.2
+2024-10-21 13:45:00 DEBUG ResolutionCache - Resolution chrome=130 in cache (valid until 14:02:51 21/10/2024 EDT)
+2024-10-21 13:45:00 DEBUG ResolutionCache - Resolution chrome130=130.0.6723.58 in cache (valid until 11:51:02 22/10/2024 EDT)
+2024-10-21 13:45:00 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:45:00 DEBUG WebDriverManager - Driver chromedriver 130.0.6723.58 found in cache
+2024-10-21 13:45:00 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:45:31 DEBUG WebDriverManager - Using WebDriverManager 5.9.2
+2024-10-21 13:45:32 DEBUG ResolutionCache - Resolution chrome=130 in cache (valid until 14:02:51 21/10/2024 EDT)
+2024-10-21 13:45:32 DEBUG ResolutionCache - Resolution chrome130=130.0.6723.58 in cache (valid until 11:51:02 22/10/2024 EDT)
+2024-10-21 13:45:32 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:45:32 DEBUG WebDriverManager - Driver chromedriver 130.0.6723.58 found in cache
+2024-10-21 13:45:32 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:45:55 DEBUG WebDriverManager - Using WebDriverManager 5.9.2
+2024-10-21 13:45:55 DEBUG ResolutionCache - Resolution chrome=130 in cache (valid until 14:02:51 21/10/2024 EDT)
+2024-10-21 13:45:55 DEBUG ResolutionCache - Resolution chrome130=130.0.6723.58 in cache (valid until 11:51:02 22/10/2024 EDT)
+2024-10-21 13:45:55 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:45:55 DEBUG WebDriverManager - Driver chromedriver 130.0.6723.58 found in cache
+2024-10-21 13:45:55 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:46:12 DEBUG WebDriverManager - Using WebDriverManager 5.9.2
+2024-10-21 13:46:12 DEBUG ResolutionCache - Resolution chrome=130 in cache (valid until 14:02:51 21/10/2024 EDT)
+2024-10-21 13:46:12 DEBUG ResolutionCache - Resolution chrome130=130.0.6723.58 in cache (valid until 11:51:02 22/10/2024 EDT)
+2024-10-21 13:46:12 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:46:12 DEBUG WebDriverManager - Driver chromedriver 130.0.6723.58 found in cache
+2024-10-21 13:46:12 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:46:27 DEBUG WebDriverManager - Using WebDriverManager 5.9.2
+2024-10-21 13:46:27 DEBUG ResolutionCache - Resolution chrome=130 in cache (valid until 14:02:51 21/10/2024 EDT)
+2024-10-21 13:46:27 DEBUG ResolutionCache - Resolution chrome130=130.0.6723.58 in cache (valid until 11:51:02 22/10/2024 EDT)
+2024-10-21 13:46:27 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:46:27 DEBUG WebDriverManager - Driver chromedriver 130.0.6723.58 found in cache
+2024-10-21 13:46:27 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:46:37 DEBUG WebDriverManager - Using WebDriverManager 5.9.2
+2024-10-21 13:46:37 DEBUG ResolutionCache - Resolution chrome=130 in cache (valid until 14:02:51 21/10/2024 EDT)
+2024-10-21 13:46:37 DEBUG ResolutionCache - Resolution chrome130=130.0.6723.58 in cache (valid until 11:51:02 22/10/2024 EDT)
+2024-10-21 13:46:37 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:46:37 DEBUG WebDriverManager - Driver chromedriver 130.0.6723.58 found in cache
+2024-10-21 13:46:37 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:46:45 DEBUG WebDriverManager - Using WebDriverManager 5.9.2
+2024-10-21 13:46:45 DEBUG ResolutionCache - Resolution chrome=130 in cache (valid until 14:02:51 21/10/2024 EDT)
+2024-10-21 13:46:45 DEBUG ResolutionCache - Resolution chrome130=130.0.6723.58 in cache (valid until 11:51:02 22/10/2024 EDT)
+2024-10-21 13:46:45 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:46:45 DEBUG WebDriverManager - Driver chromedriver 130.0.6723.58 found in cache
+2024-10-21 13:46:45 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:53:35 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:53:35 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:53:47 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:53:47 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:53:58 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:53:58 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:54:27 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:54:27 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:54:41 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:54:41 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:55:08 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:55:08 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:55:20 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:55:20 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:57:52 INFO  Utils - [TestNG] Running:
+  C:\Users\tarun\IdeaProjects\GoogleCalculatorTestFramework\src\test\resources\testng.xml
+
+2024-10-21 13:57:53 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:57:53 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:58:02 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:58:02 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:58:26 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:58:26 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:58:37 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:58:37 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:58:49 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:58:50 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:59:22 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:59:22 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:59:36 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:59:36 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 13:59:50 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 13:59:50 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 14:00:02 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 14:00:02 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 14:00:17 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 14:00:17 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe
+2024-10-21 14:00:27 INFO  WebDriverManager - Using chromedriver 130.0.6723.58 (resolved driver for Chrome 130)
+2024-10-21 14:00:27 INFO  WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\tarun\.cache\selenium\chromedriver\win64\130.0.6723.58\chromedriver.exe

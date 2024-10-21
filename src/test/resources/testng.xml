@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Google Calculator Test Automation Test Suite">
+
+    <listeners>
+        <listener class-name="com.googleCalculator.qa.util.TestListener"/>
+    </listeners>
+
+    <test name="Google Calculator Test Cases">
+        <classes>
+            <class name="testcases.GoogleHomeCalculatorTest">
+            </class>
+        </classes>
+    </test>
+</suite>
